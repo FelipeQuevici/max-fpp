@@ -1,0 +1,11 @@
+{
+  "name": "max-fpp",
+  "version": "1.0.0",
+  "description": "\"Read the file proporties of .max files\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Eliasquevici",
+  "license": "ISC"
+}
